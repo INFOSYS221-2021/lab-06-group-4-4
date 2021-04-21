@@ -31,6 +31,4 @@
 - queue.remove();
 
 ##### 6: Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.
-- // remove from the queue and make sure LIFO
-    lifoDestack(miqVoucherQ);
-    System.out.println(miqVoucherQ);
+- TBC
