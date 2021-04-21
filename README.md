@@ -21,10 +21,16 @@
     - .length
 
 ##### 4: How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?
-- In java we use the .add() and .remove methods to add and remove members, the same goes for javascript, where add = .push() and .unshift. For python it is .appned() and .remove. Essentially they all so the same thing, just diffefent syntax.
+- In java we use the .add() method to add members, the same goes for javascript, where add = .push() and python which is .remove()w. Essentially they all so the same thing, just diffefent syntax.
+- In 5.6.1 we can see in the java example they used the add and remove method below:
+- queue.add(item);
 
 ##### 5: How do you remove an item to a collection? What happens if you try to remove an item that does not exist in the collection?
-- F
+- In java we use the .remove() method to remove members. In javascript it is .unshift() for remove and in python it is .remove() also.
+- In 5.6.1 we can see in the java example they used the add and remove method below:
+- queue.remove();
 
 ##### 6: Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.
-- Change
+- // remove from the queue and make sure LIFO
+    lifoDestack(miqVoucherQ);
+    System.out.println(miqVoucherQ);
