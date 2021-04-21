@@ -21,7 +21,7 @@
     - .length
 
 ##### 4: How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?
-- In java we use the .add() method to add members, the same goes for javascript, where add = .push() and python which is .remove()w. Essentially they all so the same thing, just diffefent syntax.
+- In java we use the .add() method to add members, the same goes for javascript, where add = .push() and python which is .ammend(). Essentially they all so the same thing, just diffefent syntax.
 - In 5.6.1 we can see in the java example they used the add and remove method below:
 - queue.add(item);
 
